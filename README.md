@@ -1,9 +1,9 @@
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
+# <img src="https://github.com/BeamBatAngular/zapret-discord/releases" height=28 /> <a href="https://github.com/BeamBatAngular/zapret-discord/releases" height=28 />
 
-**NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
-Альтернатива https://github.com/bol-van/zapret-win-bundle  
+**NEW**: Ускорение Telegram Desktop - (https://github.com/BeamBatAngular/zapret-discord/releases)-proxy  
+Альтернатива - https://github.com/BeamBatAngular/zapret-discord/releases
 Также вы можете материально поддержать оригинального разработчика zapret [тут]https://github.com/BeamBatAngular/zapret-discord/releases
 
 > [!CAUTION]
