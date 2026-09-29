@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/BeamBatAngular/zapret-discord/releases" height=28 /> <a href="https://github.com/BeamBatAngular/zapret-discord/releases" height=28 />
 
-**NEW**: Ускорение Telegram Desktop - (https://github.com/BeamBatAngular/zapret-discord/releases)-proxy  
+**NEW**: Ускорение Telegram Desktop - (https://github.com/BeamBatAngular/zapret-discord/releases) proxy  
 Альтернатива - https://github.com/BeamBatAngular/zapret-discord/releases
 Также вы можете материально поддержать оригинального разработчика zapret [тут]https://github.com/BeamBatAngular/zapret-discord/releases
 
